@@ -23,9 +23,9 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi! I'm, Jan. I'm IT student from Poland. You can contact me at
+          Hi! I'm, Jan. I'm IT student from Poland. You can contact me at:
           jpoznanski@edu.cdv.pl{" "}
-          <a href="mailto:jpoznanski@edu.cdv.pl"> email </a>
+          <a href="mailto:jpoznanski@edu.cdv.pl"> email me </a>
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
